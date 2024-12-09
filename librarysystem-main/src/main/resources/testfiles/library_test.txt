@@ -1,0 +1,2 @@
+1,Book One,Author A,Fiction,0
+2,Book Two,Author B,Non-Fiction,0
